@@ -1,0 +1,20 @@
+ public bool CheckPassword(string str)
+        {
+            int i, c = 0, flag = 0;
+            string str1 = str;
+            for (i = 0; i < str.Length; i++)
+            {
+
+                if ((str1[i] >= '0' && str1[i] <= '9')||(str1[i]>='A'&& str1[i]<='Z')|| (str1[i] >= 'a' && str1[i] <= 'z')|| (!((str1[i] >= 'a' && str1[i] <= 'z')|| (str1[i] >= 'A' && str1[i] <= 'Z')|| (str1[i] >= '1' && str1[i] <= '9'))))
+                {
+                    c++;
+                    flag = 0;
+                }
+                else
+                    flag = 1;
+
+            }
+            if (flag == 0 && c == 8)
+                return true;
+            return false;
+        }

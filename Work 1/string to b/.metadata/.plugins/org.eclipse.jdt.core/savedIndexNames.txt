@@ -1,0 +1,3 @@
+INDEX VERSION 1.131+D:\Users\Ariel&Neta\Desktop\string to b\.metadata\.plugins\org.eclipse.jdt.core
+1671692264.index
+1449480119.index

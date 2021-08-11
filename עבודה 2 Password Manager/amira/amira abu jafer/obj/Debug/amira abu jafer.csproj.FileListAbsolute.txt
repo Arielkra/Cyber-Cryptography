@@ -1,0 +1,21 @@
+C:\Users\a\Desktop\amira abu jafer\bin\Debug\amira abu jafer.exe.config
+C:\Users\a\Desktop\amira abu jafer\bin\Debug\amira abu jafer.exe
+C:\Users\a\Desktop\amira abu jafer\bin\Debug\amira abu jafer.pdb
+C:\Users\a\Desktop\amira abu jafer\obj\Debug\amira abu jafer.csprojAssemblyReference.cache
+C:\Users\a\Desktop\amira abu jafer\obj\Debug\amira_abu_jafer.Form1.resources
+C:\Users\a\Desktop\amira abu jafer\obj\Debug\amira_abu_jafer.Properties.Resources.resources
+C:\Users\a\Desktop\amira abu jafer\obj\Debug\amira abu jafer.csproj.GenerateResource.cache
+C:\Users\a\Desktop\amira abu jafer\obj\Debug\amira abu jafer.exe
+C:\Users\a\Desktop\amira abu jafer\obj\Debug\amira abu jafer.pdb
+C:\Users\a\Desktop\amira abu jafer\obj\Debug\amira_abu_jafer.Form2.resources
+d:\Users\Ariel&Neta\Desktop\amira abu jafer\bin\Debug\amira abu jafer.exe.config
+d:\Users\Ariel&Neta\Desktop\amira abu jafer\bin\Debug\amira abu jafer.exe
+d:\Users\Ariel&Neta\Desktop\amira abu jafer\bin\Debug\amira abu jafer.pdb
+d:\Users\Ariel&Neta\Desktop\amira abu jafer\obj\Debug\amira abu jafer.csprojAssemblyReference.cache
+d:\Users\Ariel&Neta\Desktop\amira abu jafer\obj\Debug\amira_abu_jafer.Form1.resources
+d:\Users\Ariel&Neta\Desktop\amira abu jafer\obj\Debug\amira_abu_jafer.Form2.resources
+d:\Users\Ariel&Neta\Desktop\amira abu jafer\obj\Debug\amira_abu_jafer.Properties.Resources.resources
+d:\Users\Ariel&Neta\Desktop\amira abu jafer\obj\Debug\amira abu jafer.csproj.GenerateResource.cache
+d:\Users\Ariel&Neta\Desktop\amira abu jafer\obj\Debug\amira abu jafer.csproj.CoreCompileInputs.cache
+d:\Users\Ariel&Neta\Desktop\amira abu jafer\obj\Debug\amira abu jafer.exe
+d:\Users\Ariel&Neta\Desktop\amira abu jafer\obj\Debug\amira abu jafer.pdb

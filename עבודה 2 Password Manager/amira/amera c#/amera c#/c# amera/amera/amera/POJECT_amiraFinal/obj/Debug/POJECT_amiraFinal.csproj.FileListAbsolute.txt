@@ -1,0 +1,74 @@
+C:\Users\a\Desktop\POJECT_amiraFinal\bin\Debug\POJECT_amiraFinal.exe.config
+C:\Users\a\Desktop\POJECT_amiraFinal\bin\Debug\POJECT_amiraFinal.exe
+C:\Users\a\Desktop\POJECT_amiraFinal\bin\Debug\POJECT_amiraFinal.pdb
+C:\Users\a\Desktop\POJECT_amiraFinal\obj\Debug\POJECT_amiraFinal.csprojAssemblyReference.cache
+C:\Users\a\Desktop\POJECT_amiraFinal\obj\Debug\POJECT_amiraFinal.Form1.resources
+C:\Users\a\Desktop\POJECT_amiraFinal\obj\Debug\POJECT_amiraFinal.Form2.resources
+C:\Users\a\Desktop\POJECT_amiraFinal\obj\Debug\POJECT_amiraFinal.Properties.Resources.resources
+C:\Users\a\Desktop\POJECT_amiraFinal\obj\Debug\POJECT_amiraFinal.csproj.GenerateResource.cache
+C:\Users\a\Desktop\POJECT_amiraFinal\obj\Debug\POJECT_amiraFinal.exe
+C:\Users\a\Desktop\POJECT_amiraFinal\obj\Debug\POJECT_amiraFinal.pdb
+C:\Users\a\Desktop\POJECT_amiraFinal\obj\Debug\POJECT_amiraFinal.Form3.resources
+C:\Users\a\Desktop\POJECT_amiraFinal\obj\Debug\POJECT_amiraFinal.Form4.resources
+C:\Users\a\Desktop\POJECT_amiraFinal\obj\Debug\POJECT_amiraFinal.Form5.resources
+C:\Users\a\Desktop\POJECT_amiraFinal\obj\Debug\POJECT_amiraFinal.Form6.resources
+F:\ניתוח ועיצוב תוכנה\POJECT_amiraFinal\bin\Debug\POJECT_amiraFinal.exe.config
+F:\ניתוח ועיצוב תוכנה\POJECT_amiraFinal\bin\Debug\POJECT_amiraFinal.exe
+F:\ניתוח ועיצוב תוכנה\POJECT_amiraFinal\bin\Debug\POJECT_amiraFinal.pdb
+F:\ניתוח ועיצוב תוכנה\POJECT_amiraFinal\obj\Debug\POJECT_amiraFinal.csprojAssemblyReference.cache
+F:\ניתוח ועיצוב תוכנה\POJECT_amiraFinal\obj\Debug\POJECT_amiraFinal.Form1.resources
+F:\ניתוח ועיצוב תוכנה\POJECT_amiraFinal\obj\Debug\POJECT_amiraFinal.Form2.resources
+F:\ניתוח ועיצוב תוכנה\POJECT_amiraFinal\obj\Debug\POJECT_amiraFinal.Form3.resources
+F:\ניתוח ועיצוב תוכנה\POJECT_amiraFinal\obj\Debug\POJECT_amiraFinal.Form4.resources
+F:\ניתוח ועיצוב תוכנה\POJECT_amiraFinal\obj\Debug\POJECT_amiraFinal.Form5.resources
+F:\ניתוח ועיצוב תוכנה\POJECT_amiraFinal\obj\Debug\POJECT_amiraFinal.Form6.resources
+F:\ניתוח ועיצוב תוכנה\POJECT_amiraFinal\obj\Debug\POJECT_amiraFinal.Properties.Resources.resources
+F:\ניתוח ועיצוב תוכנה\POJECT_amiraFinal\obj\Debug\POJECT_amiraFinal.csproj.GenerateResource.cache
+F:\ניתוח ועיצוב תוכנה\POJECT_amiraFinal\obj\Debug\POJECT_amiraFinal.exe
+F:\ניתוח ועיצוב תוכנה\POJECT_amiraFinal\obj\Debug\POJECT_amiraFinal.pdb
+C:\Users\a\Desktop\amera\POJECT_amiraFinal\bin\Debug\POJECT_amiraFinal.exe.config
+C:\Users\a\Desktop\amera\POJECT_amiraFinal\bin\Debug\POJECT_amiraFinal.exe
+C:\Users\a\Desktop\amera\POJECT_amiraFinal\bin\Debug\POJECT_amiraFinal.pdb
+C:\Users\a\Desktop\amera\POJECT_amiraFinal\obj\Debug\POJECT_amiraFinal.csprojAssemblyReference.cache
+C:\Users\a\Desktop\amera\POJECT_amiraFinal\obj\Debug\POJECT_amiraFinal.Form1.resources
+C:\Users\a\Desktop\amera\POJECT_amiraFinal\obj\Debug\POJECT_amiraFinal.Form2.resources
+C:\Users\a\Desktop\amera\POJECT_amiraFinal\obj\Debug\POJECT_amiraFinal.Form3.resources
+C:\Users\a\Desktop\amera\POJECT_amiraFinal\obj\Debug\POJECT_amiraFinal.Form4.resources
+C:\Users\a\Desktop\amera\POJECT_amiraFinal\obj\Debug\POJECT_amiraFinal.Form5.resources
+C:\Users\a\Desktop\amera\POJECT_amiraFinal\obj\Debug\POJECT_amiraFinal.Form6.resources
+C:\Users\a\Desktop\amera\POJECT_amiraFinal\obj\Debug\POJECT_amiraFinal.Properties.Resources.resources
+C:\Users\a\Desktop\amera\POJECT_amiraFinal\obj\Debug\POJECT_amiraFinal.csproj.GenerateResource.cache
+C:\Users\a\Desktop\amera\POJECT_amiraFinal\obj\Debug\POJECT_amiraFinal.exe
+C:\Users\a\Desktop\amera\POJECT_amiraFinal\obj\Debug\POJECT_amiraFinal.pdb
+C:\Users\a\Desktop\amera\POJECT_amiraFinal\obj\Debug\POJECT_amiraFinal.Form7.resources
+C:\Users\a\Desktop\c# amera\amera\amera\POJECT_amiraFinal\bin\Debug\POJECT_amiraFinal.exe.config
+C:\Users\a\Desktop\c# amera\amera\amera\POJECT_amiraFinal\bin\Debug\POJECT_amiraFinal.exe
+C:\Users\a\Desktop\c# amera\amera\amera\POJECT_amiraFinal\bin\Debug\POJECT_amiraFinal.pdb
+C:\Users\a\Desktop\c# amera\amera\amera\POJECT_amiraFinal\obj\Debug\POJECT_amiraFinal.csprojAssemblyReference.cache
+C:\Users\a\Desktop\c# amera\amera\amera\POJECT_amiraFinal\obj\Debug\POJECT_amiraFinal.Form1.resources
+C:\Users\a\Desktop\c# amera\amera\amera\POJECT_amiraFinal\obj\Debug\POJECT_amiraFinal.Form2.resources
+C:\Users\a\Desktop\c# amera\amera\amera\POJECT_amiraFinal\obj\Debug\POJECT_amiraFinal.Form3.resources
+C:\Users\a\Desktop\c# amera\amera\amera\POJECT_amiraFinal\obj\Debug\POJECT_amiraFinal.Form4.resources
+C:\Users\a\Desktop\c# amera\amera\amera\POJECT_amiraFinal\obj\Debug\POJECT_amiraFinal.Form5.resources
+C:\Users\a\Desktop\c# amera\amera\amera\POJECT_amiraFinal\obj\Debug\POJECT_amiraFinal.Form6.resources
+C:\Users\a\Desktop\c# amera\amera\amera\POJECT_amiraFinal\obj\Debug\POJECT_amiraFinal.Form7.resources
+C:\Users\a\Desktop\c# amera\amera\amera\POJECT_amiraFinal\obj\Debug\POJECT_amiraFinal.Properties.Resources.resources
+C:\Users\a\Desktop\c# amera\amera\amera\POJECT_amiraFinal\obj\Debug\POJECT_amiraFinal.csproj.GenerateResource.cache
+C:\Users\a\Desktop\c# amera\amera\amera\POJECT_amiraFinal\obj\Debug\POJECT_amiraFinal.exe
+C:\Users\a\Desktop\c# amera\amera\amera\POJECT_amiraFinal\obj\Debug\POJECT_amiraFinal.pdb
+E:\ניתוח ועיצוב תוכנה\c# amera\amera\amera\POJECT_amiraFinal\bin\Debug\POJECT_amiraFinal.exe.config
+E:\ניתוח ועיצוב תוכנה\c# amera\amera\amera\POJECT_amiraFinal\bin\Debug\POJECT_amiraFinal.exe
+E:\ניתוח ועיצוב תוכנה\c# amera\amera\amera\POJECT_amiraFinal\bin\Debug\POJECT_amiraFinal.pdb
+E:\ניתוח ועיצוב תוכנה\c# amera\amera\amera\POJECT_amiraFinal\obj\Debug\POJECT_amiraFinal.csprojAssemblyReference.cache
+E:\ניתוח ועיצוב תוכנה\c# amera\amera\amera\POJECT_amiraFinal\obj\Debug\POJECT_amiraFinal.Form1.resources
+E:\ניתוח ועיצוב תוכנה\c# amera\amera\amera\POJECT_amiraFinal\obj\Debug\POJECT_amiraFinal.Form2.resources
+E:\ניתוח ועיצוב תוכנה\c# amera\amera\amera\POJECT_amiraFinal\obj\Debug\POJECT_amiraFinal.Form3.resources
+E:\ניתוח ועיצוב תוכנה\c# amera\amera\amera\POJECT_amiraFinal\obj\Debug\POJECT_amiraFinal.Form4.resources
+E:\ניתוח ועיצוב תוכנה\c# amera\amera\amera\POJECT_amiraFinal\obj\Debug\POJECT_amiraFinal.Form5.resources
+E:\ניתוח ועיצוב תוכנה\c# amera\amera\amera\POJECT_amiraFinal\obj\Debug\POJECT_amiraFinal.Form6.resources
+E:\ניתוח ועיצוב תוכנה\c# amera\amera\amera\POJECT_amiraFinal\obj\Debug\POJECT_amiraFinal.Form7.resources
+E:\ניתוח ועיצוב תוכנה\c# amera\amera\amera\POJECT_amiraFinal\obj\Debug\POJECT_amiraFinal.Properties.Resources.resources
+E:\ניתוח ועיצוב תוכנה\c# amera\amera\amera\POJECT_amiraFinal\obj\Debug\POJECT_amiraFinal.csproj.GenerateResource.cache
+E:\ניתוח ועיצוב תוכנה\c# amera\amera\amera\POJECT_amiraFinal\obj\Debug\POJECT_amiraFinal.csproj.CoreCompileInputs.cache
+E:\ניתוח ועיצוב תוכנה\c# amera\amera\amera\POJECT_amiraFinal\obj\Debug\POJECT_amiraFinal.exe
+E:\ניתוח ועיצוב תוכנה\c# amera\amera\amera\POJECT_amiraFinal\obj\Debug\POJECT_amiraFinal.pdb
